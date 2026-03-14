@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gunicorn        # optional, if using gunicorn
+sqlalchemy
+python-dotenv
+google-generativeai
+httpx
+twilio
+africastalking
+passlib[bcrypt]
+pydantic[email]
